@@ -5,6 +5,8 @@ How to reach me: mathenbiolis@gmail.com. Fun fact: I have a Shar Pei dog, He has
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=matheus1760)](https://github.com/matheus1760)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus1760&layout=compact)](https://github.com/matheus1760)
