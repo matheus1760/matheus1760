@@ -3,7 +3,7 @@ I am Matheus Bione, a Brazillian future developer. I have some knoledge in linux
 So I'm looking to colaborate in any projects wich I can help with my basic knoledge, and  looking for help with literally everything, that would be awesome.
 How to reach me: mathenbiolis@gmail.com. Fun fact: I have a Shar Pei dog, He has many wrinkles 
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
