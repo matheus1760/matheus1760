@@ -1,5 +1,5 @@
 Hi, welcome to my profile!
-I am Matheus Bione, a Brazillian future developer. I have knoledge in Linux administration, C, Perl, and shell scripting. I will soon start CS, looking into that.
+I am Matheus Bione, a Brazillian future developer. I have knowledge in Linux administration, C, and shell scripting. I will soon start CS, looking into that.
 Currently colaborating in any projects wich I can help with my experience, and  looking for help with literally everything, that would be awesome.
 How to reach me: mathenbiolis@gmail.com. Fun fact: I have a Shar Pei dog, He has many wrinkles 
 
