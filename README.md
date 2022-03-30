@@ -1,5 +1,7 @@
 Oi, seja bem vindo ao meu perfil!
-Eu sou Matheus Bione, um desenvolvedor Brasileiro. Tenho conhecimento Linux, virtualização, ssh, git, C e Go. Atualmente colaborando para qualquer projeto o qual eu possa obter experiência, Isso seria ótimo. Como entrar em contato: mathenbiolis@gmail.com, 83 9882-5285. 
+Eu sou Matheus Bione, um desenvolvedor Brasileiro. Tenho conhecimento Linux, virtualização, ssh, git, C e Go. 
+Atualmente colaborando para qualquer projeto o qual eu possa obter experiência, Isso seria ótimo.
+Como entrar em contato: mathenbiolis@gmail.com, 83 9882-5285. 
 
 LinkedIn: https://www.linkedin.com/in/matheus-bione-811141231/
 
