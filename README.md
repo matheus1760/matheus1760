@@ -6,7 +6,6 @@ Aqui procuro 🔭 **contribuir** em projetos nos quais posso adquirir experiênc
 
 ## 📚 Meus conhecimentos:  
 
-![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Linux-1CC624?style=for-the-badge&logo=linux&logoColor=black)
 
