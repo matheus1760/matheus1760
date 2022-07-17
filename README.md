@@ -9,6 +9,7 @@ Aqui procuro 🔭 **contribuir** em projetos nos quais posso adquirir experiênc
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Linux-1CC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/Java-E28743?style=for-the-badge&logo=java&logoColor=orange)
+![image](https://img.shields.io/badge/Kotlin-BC6C17?style=for-the-badge&logo=kotlin&logoColor=orange)
 
 ## 🚀 Status da minha conta do github:
 
